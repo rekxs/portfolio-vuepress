@@ -7,15 +7,14 @@ sections:
 - type: document
   path: portfolio/index.md
   label: Homepage
+  read_only: false
   templates:
   - settings
 - type: directory
   path: portfolio/works
-  label: Works
+  label: Gallery
   create: all
   match: "**/*"
-  templates:
-  - works
 - type: directory
   path: portfolio/journal
   label: Journal
