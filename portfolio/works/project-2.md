@@ -10,4 +10,4 @@ categories:
 ---
 # Me and My Hoodie
 
-![](/upload/photo-1516906736502-5d3fedc3019a.jpeg)
+![](/upload/IMG_20190311_123945_234.jpg)
