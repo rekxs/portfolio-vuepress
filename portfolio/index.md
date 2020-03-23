@@ -1,6 +1,7 @@
 ---
 works_index: true
-hero_text: "<strong>We're Acme</strong>, we work for brands. But most importantly, we work for fun."
+hero_text: "<strong>Wuff! I'm Samy, the Husky. This Site is here to show all of my
+  awesome Pictures.</strong>"
 title: Hero
 
 ---
