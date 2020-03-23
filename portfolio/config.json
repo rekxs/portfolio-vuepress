@@ -1,33 +1,21 @@
 {
-    "title": "Acme",
-    "description": "Creative Agency",
-    "logo": "/upload/logo.svg",
-    "footer": "Ⓒ Acme",
-    "favicon": "favicon-32x32.png",
-    "navigation": [
-      {
-        "text": "Works",
-        "link": "/",
-        "position": "left",
-        "external": false
-      },
-      {
-        "text": "Instagram",
-        "link": "https://www.instagram.com/its.nwa",
-        "position": "left",
-        "external": true
-      },
-      {
-        "text": "Say hi!",
-        "link": "mailto:sayhi@mydomain.com",
-        "position": "right",
-        "external": true
-      },
-      {
-        "text": "Journal",
-        "link": "/journal/",
-        "position": "right",
-        "external": false
-      }
-    ]
-  }
+  "title": "Woof! Woof!",
+  "description": "I'm Samy the Husky",
+  "logo": "/upload/logo.svg",
+  "footer": "Ⓒ Samy",
+  "favicon": "favicon-32x32.png",
+  "navigation": [
+    {
+      "text": "Works",
+      "link": "/",
+      "position": "left",
+      "external": false
+    },
+    {
+      "text": "Instagram",
+      "link": "https://www.instagram.com/its.nwa",
+      "position": "left",
+      "external": true
+    }
+  ]
+}
