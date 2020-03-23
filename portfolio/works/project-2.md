@@ -1,6 +1,6 @@
 ---
 title: Me and My Hoodie
-date: 2018-08-09T18:05:37.000+00:00
+date: 2018-08-09 20:05:37 +0200
 thumbnail: "/upload/IMG_20190311_123945_234.jpg"
 year: "2016"
 description: subtitle
@@ -8,8 +8,6 @@ categories:
 - print
 
 ---
-# Project two
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Me and My Hoodie
 
 ![](/upload/photo-1516906736502-5d3fedc3019a.jpeg)
